@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hendrixthecoder
 - 👀 I’m interested in everything web development
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently building webapps with frameworks like Laravel, React etc
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me uhmm, reach out?
+- 📫 How to reach me uhmm, reach out? 
 
 <!---
 hendrixthecoder/hendrixthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
