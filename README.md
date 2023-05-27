@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hendrixthecoder
-- 👀 I’m interested in everything web development
-- 🌱 I’m currently building webapps with frameworks like Laravel, React etc
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in everything web/app development
+- 🌱 I’m currently building webapps with frameworks like Laravel, and the MERN stack etc
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me uhmm, reach out? 
 
 <!---
