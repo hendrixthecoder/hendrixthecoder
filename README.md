@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything web/app development
 - 🌱 I’m currently building webapps with frameworks like Laravel, and the MERN stack etc
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me uhmm, reach out? 
+- 📫 How to reach me uhmm, biobeledev@gmail.com? 
 
 <!---
 hendrixthecoder/hendrixthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
