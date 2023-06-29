@@ -12,9 +12,11 @@ Full Stack Software Developer passionate about providing solutions fast, secure 
 *   🚀  I'm currently working on [my portfolio website](http://biobele.com)
 *   🧠  I'm learning app development using React Native
 *   🤝  I'm open to collaborating on everything web/app development
-*   ⚡  learning something new excites me!<a href="https://www.twitter.com/hendrixthecoder" target="_blank" rel="noreferrer"><img
+*   ⚡  learning something new excites me!
+<a href="https://www.twitter.com/hendrixthecoder" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/hendrixthecoder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
