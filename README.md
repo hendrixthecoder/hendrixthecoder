@@ -6,7 +6,6 @@ Full Stack Web Developer
 
 Full Stack Software Developer passionate about providing solutions fast, secure and reliable.
 
-*   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://biobele.com)
 *   ✉️  You can contact me at [biobeledev@gmail.com](mailto:biobeledev@gmail.com)
 *   🚀  I'm currently working on [my portfolio website](http://biobele.com)
