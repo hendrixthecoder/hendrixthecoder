@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Full Stack Software Developer passionate about providing solutions fast, secure and reliable.
+Full Stack Software Developer passionate about providing solutions fast, that are secure and reliable.
 
 *   🖥️  See my portfolio at [My Portfolio](http://biobele.com)
 *   ✉️  You can contact me at [biobeledev@gmail.com](mailto:biobeledev@gmail.com)
