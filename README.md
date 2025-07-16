@@ -8,10 +8,9 @@ Full Stack Software Developer passionate about providing solutions fast, that ar
 
 *   🖥️  See my portfolio at [My Portfolio](http://react-portfolio-five-rose.vercel.app)
 *   ✉️  You can contact me at [biobeledev@gmail.com](mailto:biobeledev@gmail.com)
-*   🚀  I'm currently working on [my portfolio website](http://biobele.com)
-*   🧠  I'm learning app development using React Native
+*   🚀  I'm currently learning Golang.
 *   🤝  I'm open to collaborating on everything web/app development
-*   ⚡  learning something new excites me!
+*   ⚡  Learning something new excites me!
 <a href="https://www.twitter.com/hendrixthecoder" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/hendrixthecoder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
